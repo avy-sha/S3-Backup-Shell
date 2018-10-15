@@ -1,0 +1,3 @@
+BUCKET:backup-major1
+PATH:/home/abhinav/Downloads/qwerty/
+LASTUPDATETIME:1539525770
